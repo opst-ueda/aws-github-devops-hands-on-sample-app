@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
  
 app_path="/usr/src/app/bin/www"
 forever_log="/var/log/app/forever.log"
