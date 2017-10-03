@@ -1,4 +1,4 @@
-#!/usr/bin bash
+#!/bin/bash
  
 app_src_path="/usr/src/app"
 app_log_path="/var/log/app"
